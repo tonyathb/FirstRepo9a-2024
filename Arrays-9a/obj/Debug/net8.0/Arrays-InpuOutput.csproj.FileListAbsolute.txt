@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\9a class\Arrays-9a\Arrays-9a\bin\Debug\net8.0\Arrays-InpuOutput.exe
+C:\Users\Admin\source\repos\9a class\Arrays-9a\Arrays-9a\bin\Debug\net8.0\Arrays-InpuOutput.deps.json
+C:\Users\Admin\source\repos\9a class\Arrays-9a\Arrays-9a\bin\Debug\net8.0\Arrays-InpuOutput.runtimeconfig.json
+C:\Users\Admin\source\repos\9a class\Arrays-9a\Arrays-9a\bin\Debug\net8.0\Arrays-InpuOutput.dll
+C:\Users\Admin\source\repos\9a class\Arrays-9a\Arrays-9a\bin\Debug\net8.0\Arrays-InpuOutput.pdb
+C:\Users\Admin\source\repos\9a class\Arrays-9a\Arrays-9a\obj\Debug\net8.0\Arrays-InpuOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\9a class\Arrays-9a\Arrays-9a\obj\Debug\net8.0\Arrays-InpuOutput.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\9a class\Arrays-9a\Arrays-9a\obj\Debug\net8.0\Arrays-InpuOutput.AssemblyInfo.cs
+C:\Users\Admin\source\repos\9a class\Arrays-9a\Arrays-9a\obj\Debug\net8.0\Arrays-InpuOutput.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\9a class\Arrays-9a\Arrays-9a\obj\Debug\net8.0\Arrays-InpuOutput.dll
+C:\Users\Admin\source\repos\9a class\Arrays-9a\Arrays-9a\obj\Debug\net8.0\refint\Arrays-InpuOutput.dll
+C:\Users\Admin\source\repos\9a class\Arrays-9a\Arrays-9a\obj\Debug\net8.0\Arrays-InpuOutput.pdb
+C:\Users\Admin\source\repos\9a class\Arrays-9a\Arrays-9a\obj\Debug\net8.0\Arrays-InpuOutput.genruntimeconfig.cache
+C:\Users\Admin\source\repos\9a class\Arrays-9a\Arrays-9a\obj\Debug\net8.0\ref\Arrays-InpuOutput.dll

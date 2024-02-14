@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\9a class\Arrays-9a\AgregatArray\bin\Debug\net8.0\AgregatArray.exe
+C:\Users\Admin\source\repos\9a class\Arrays-9a\AgregatArray\bin\Debug\net8.0\AgregatArray.deps.json
+C:\Users\Admin\source\repos\9a class\Arrays-9a\AgregatArray\bin\Debug\net8.0\AgregatArray.runtimeconfig.json
+C:\Users\Admin\source\repos\9a class\Arrays-9a\AgregatArray\bin\Debug\net8.0\AgregatArray.dll
+C:\Users\Admin\source\repos\9a class\Arrays-9a\AgregatArray\bin\Debug\net8.0\AgregatArray.pdb
+C:\Users\Admin\source\repos\9a class\Arrays-9a\AgregatArray\obj\Debug\net8.0\AgregatArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\9a class\Arrays-9a\AgregatArray\obj\Debug\net8.0\AgregatArray.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\9a class\Arrays-9a\AgregatArray\obj\Debug\net8.0\AgregatArray.AssemblyInfo.cs
+C:\Users\Admin\source\repos\9a class\Arrays-9a\AgregatArray\obj\Debug\net8.0\AgregatArray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\9a class\Arrays-9a\AgregatArray\obj\Debug\net8.0\AgregatArray.dll
+C:\Users\Admin\source\repos\9a class\Arrays-9a\AgregatArray\obj\Debug\net8.0\refint\AgregatArray.dll
+C:\Users\Admin\source\repos\9a class\Arrays-9a\AgregatArray\obj\Debug\net8.0\AgregatArray.pdb
+C:\Users\Admin\source\repos\9a class\Arrays-9a\AgregatArray\obj\Debug\net8.0\AgregatArray.genruntimeconfig.cache
+C:\Users\Admin\source\repos\9a class\Arrays-9a\AgregatArray\obj\Debug\net8.0\ref\AgregatArray.dll

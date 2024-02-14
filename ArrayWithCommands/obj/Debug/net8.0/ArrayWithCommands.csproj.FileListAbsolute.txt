@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\9a class\Arrays-9a\ArrayWithCommands\bin\Debug\net8.0\ArrayWithCommands.exe
+C:\Users\Admin\source\repos\9a class\Arrays-9a\ArrayWithCommands\bin\Debug\net8.0\ArrayWithCommands.deps.json
+C:\Users\Admin\source\repos\9a class\Arrays-9a\ArrayWithCommands\bin\Debug\net8.0\ArrayWithCommands.runtimeconfig.json
+C:\Users\Admin\source\repos\9a class\Arrays-9a\ArrayWithCommands\bin\Debug\net8.0\ArrayWithCommands.dll
+C:\Users\Admin\source\repos\9a class\Arrays-9a\ArrayWithCommands\bin\Debug\net8.0\ArrayWithCommands.pdb
+C:\Users\Admin\source\repos\9a class\Arrays-9a\ArrayWithCommands\obj\Debug\net8.0\ArrayWithCommands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\9a class\Arrays-9a\ArrayWithCommands\obj\Debug\net8.0\ArrayWithCommands.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\9a class\Arrays-9a\ArrayWithCommands\obj\Debug\net8.0\ArrayWithCommands.AssemblyInfo.cs
+C:\Users\Admin\source\repos\9a class\Arrays-9a\ArrayWithCommands\obj\Debug\net8.0\ArrayWithCommands.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\9a class\Arrays-9a\ArrayWithCommands\obj\Debug\net8.0\ArrayWithCommands.dll
+C:\Users\Admin\source\repos\9a class\Arrays-9a\ArrayWithCommands\obj\Debug\net8.0\refint\ArrayWithCommands.dll
+C:\Users\Admin\source\repos\9a class\Arrays-9a\ArrayWithCommands\obj\Debug\net8.0\ArrayWithCommands.pdb
+C:\Users\Admin\source\repos\9a class\Arrays-9a\ArrayWithCommands\obj\Debug\net8.0\ArrayWithCommands.genruntimeconfig.cache
+C:\Users\Admin\source\repos\9a class\Arrays-9a\ArrayWithCommands\obj\Debug\net8.0\ref\ArrayWithCommands.dll
