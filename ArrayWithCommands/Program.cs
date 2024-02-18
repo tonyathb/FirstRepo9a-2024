@@ -31,6 +31,11 @@
                         }
                         else
                         {
+                            if (true)
+                            {
+
+                            }
+                            //break;
                             break;
                             //drugi comsands
                         }
