@@ -14,12 +14,15 @@
                 string input = Console.ReadLine();
                 switch(input)
                 {
-                    case "Reverse": //ihh
+                    case "Reverse":
                         Array.Reverse(arr);
                         break;
                     case "Distinct":
                         string[] resultArr=arr.Distinct().ToArray();
                         arr = resultArr;
+                        break;
+                    case "Empty":
+                        arr = new string[arr.Length];
                         break;
                     default://input = Replace 6 "jhjhj"
                         string[] comands = input.Split().ToArray();
