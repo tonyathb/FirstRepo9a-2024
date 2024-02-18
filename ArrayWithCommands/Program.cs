@@ -14,7 +14,7 @@
                 string input = Console.ReadLine();
                 switch(input)
                 {
-                    case "Reverse":
+                    case "Reverse": //ihh
                         Array.Reverse(arr);
                         break;
                     case "Distinct":
